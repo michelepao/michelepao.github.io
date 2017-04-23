@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F5;
-	background-color: #312341;
+	color: #00001C;
+	background-color: #7E1943;
 }
 
 .js body
@@ -28,33 +28,39 @@
 	margin-right: auto;
 }
 
-#u5644,#u5644-bw
-{
-	z-index: 2;
-}
-
-#u5188,#u5188-bw
-{
-	z-index: 3;
-}
-
-#u5178
-{
-	height: 36px;
-	z-index: 4;
-}
-
-#u5178-bw
-{
-	z-index: 4;
-}
-
-#u1203-16
+#u1201
 {
 	left: 50%;
-	vertical-align: top;
-	z-index: 12;
+	z-index: 10;
 	position: fixed;
+}
+
+#u1201.MuseLinkActive
+{
+	margin-bottom: 0px;
+	margin-top: 0px;
+	background-color: transparent;
+	min-height: 0px;
+	margin-right: 0px;
+}
+
+#u1202
+{
+	z-index: 11;
+	display: block;
+}
+
+#u13545
+{
+	left: 50%;
+	background-color: transparent;
+	z-index: 31;
+	position: fixed;
+}
+
+#u13546
+{
+	z-index: 32;
 	display: block;
 }
 
@@ -154,6 +160,15 @@
 	background-size: contain;
 }
 
+#u1203-16
+{
+	left: 50%;
+	vertical-align: top;
+	z-index: 12;
+	position: fixed;
+	display: block;
+}
+
 #u7708
 {
 	left: 50%;
@@ -174,40 +189,25 @@
 	display: block;
 }
 
-#u1201
+#u5644,#u5644-bw
 {
-	left: 50%;
-	z-index: 10;
-	position: fixed;
+	z-index: 2;
 }
 
-#u1201.MuseLinkActive
+#u5188,#u5188-bw
 {
-	margin-bottom: 0px;
-	margin-top: 0px;
-	background-color: transparent;
-	min-height: 0px;
-	margin-right: 0px;
+	z-index: 3;
 }
 
-#u1202
+#u5178
 {
-	z-index: 11;
-	display: block;
+	height: 36px;
+	z-index: 4;
 }
 
-#u13545
+#u5178-bw
 {
-	left: 50%;
-	background-color: transparent;
-	z-index: 31;
-	position: fixed;
-}
-
-#u13546
-{
-	z-index: 32;
-	display: block;
+	z-index: 4;
 }
 
 .html
@@ -1669,48 +1669,53 @@ body
 	#page
 	{
 		width: 320px;
-		min-height: 576px;
+		min-height: 399.9151103181191px;
+		padding-bottom: 0px;
 	}
 
-	#pu5644
+	#page_position_content
+	{
+		padding-top: 28px;
+		padding-bottom: 276px;
+		width: 0.01px;/* should not cover content below */
+	}
+
+	#pu1201
 	{
 		width: 0.01px;
-		padding-bottom: 375px;
-		margin-right: -10000px;
-		margin-top: 201px;
-		margin-left: -80px;
+		padding-bottom: 72px;
+		margin-left: 132px;
 	}
 
-	#u5644
+	#u1201
 	{
-		height: 25px;
-		position: fixed;
-		bottom: 61px;
+		width: 56px;
+		top: 28px;
+		margin-left: -28px;
 	}
 
-	#u5188
+	#u1201.MuseLinkActive
 	{
-		height: 25px;
-		position: fixed;
-		bottom: 36px;
+		margin-left: -28px;
+		width: 56px;
 	}
 
-	#u5178
+	#u13545
 	{
-		position: fixed;
-		bottom: 0px;
+		width: 56px;
+		top: 28px;
+		margin-left: 88px;
 	}
 
-	#u1203-16
+	#u13546
 	{
-		top: 201px;
-		margin-left: -160px;
+		margin-bottom: 7px;
 	}
 
 	#u8876
 	{
-		margin-right: -10000px;
-		margin-top: 240px;
+		top: -36px;
+		margin-bottom: -36px;
 	}
 
 	#u13603
@@ -1816,6 +1821,12 @@ body
 		background-image: url("../images/flagsartboard%204-u1720-r-fr_2x2.png");
 	}
 
+	#u1203-16
+	{
+		top: 201px;
+		margin-left: -160px;
+	}
+
 	#u7708
 	{
 		width: 120px;
@@ -1823,29 +1834,24 @@ body
 		margin-left: -60px;
 	}
 
-	#u1201
+	#u5644
 	{
-		width: 56px;
-		top: 28px;
-		margin-left: -28px;
+		height: 25px;
+		position: fixed;
+		bottom: 61px;
 	}
 
-	#u1201.MuseLinkActive
+	#u5188
 	{
-		margin-left: -28px;
-		width: 56px;
+		height: 25px;
+		position: fixed;
+		bottom: 36px;
 	}
 
-	#u13545
+	#u5178
 	{
-		width: 56px;
-		top: 28px;
-		margin-left: 88px;
-	}
-
-	#u13546
-	{
-		margin-bottom: 7px;
+		position: fixed;
+		bottom: 0px;
 	}
 
 	body
