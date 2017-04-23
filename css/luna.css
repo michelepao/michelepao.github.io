@@ -1,7 +1,7 @@
 .version.luna /* version checker */
 {
-	color: #0000FD;
-	background-color: #0D3E06;
+	color: #0000E7;
+	background-color: #F4ADC2;
 }
 
 #page
@@ -29,8 +29,8 @@
 #pu5644
 {
 	width: 0.01px;
-	margin-top: 58px;
 	margin-right: -10000px;
+	padding-bottom: 86px;
 }
 
 #u5644
@@ -70,20 +70,6 @@
 #u5178-bw
 {
 	z-index: 4;
-}
-
-#u11250
-{
-	top: 58px;
-	left: 50%;
-	z-index: 38;
-	position: fixed;
-}
-
-#u11251
-{
-	margin-bottom: -1px;
-	z-index: 39;
 }
 
 #slideshowu1931
@@ -325,14 +311,8 @@ body
 
 	#pu5644
 	{
-		padding-bottom: 541px;
+		margin-top: 513px;
 		margin-left: -432px;
-	}
-
-	#u11250
-	{
-		width: 105px;
-		margin-left: 146px;
 	}
 
 }
@@ -356,14 +336,8 @@ body
 
 	#pu5644
 	{
-		padding-bottom: 541px;
+		margin-top: 513px;
 		margin-left: -312px;
-	}
-
-	#u11250
-	{
-		width: 105px;
-		margin-left: 148px;
 	}
 
 }
@@ -387,14 +361,8 @@ body
 
 	#pu5644
 	{
-		padding-bottom: 442px;
+		margin-top: 414px;
 		margin-left: -208px;
-	}
-
-	#u11250
-	{
-		width: 105px;
-		margin-left: 160px;
 	}
 
 }
@@ -418,14 +386,8 @@ body
 
 	#pu5644
 	{
-		padding-bottom: 442px;
+		margin-top: 414px;
 		margin-left: -96px;
-	}
-
-	#u11250
-	{
-		width: 90px;
-		margin-left: 183px;
 	}
 
 }
@@ -449,13 +411,7 @@ body
 
 	#pu5644
 	{
-		padding-bottom: 442px;
-	}
-
-	#u11250
-	{
-		width: 80px;
-		margin-left: 197px;
+		margin-top: 414px;
 	}
 
 }
