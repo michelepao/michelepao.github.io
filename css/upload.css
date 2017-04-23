@@ -1,7 +1,7 @@
 .version.upload /* version checker */
 {
-	color: #000009;
-	background-color: #96CAC4;
+	color: #000011;
+	background-color: #E8ECA4;
 }
 
 .js body
@@ -2454,7 +2454,7 @@
 	{
 		z-index: 1;
 		width: 320px;
-		min-height: 1250px;
+		min-height: 1358px;
 		background-image: none;
 		border-width: 0px;
 		border-color: #000000;
@@ -2616,7 +2616,7 @@
 	#u10482-bw
 	{
 		z-index: 26;
-		margin-top: 737px;
+		margin-top: 79px;
 		height: 25px;
 	}
 
