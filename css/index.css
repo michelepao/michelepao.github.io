@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E8;
-	background-color: #9C57FA;
+	color: #0000F5;
+	background-color: #312341;
 }
 
 .js body
@@ -157,7 +157,6 @@
 #u7708
 {
 	left: 50%;
-	bottom: 61px;
 	z-index: 28;
 	position: fixed;
 }
@@ -177,7 +176,6 @@
 
 #u1201
 {
-	top: 62px;
 	left: 50%;
 	z-index: 10;
 	position: fixed;
@@ -200,7 +198,6 @@
 
 #u13545
 {
-	top: 62px;
 	left: 50%;
 	background-color: transparent;
 	z-index: 31;
@@ -360,6 +357,7 @@ body
 	#u1201
 	{
 		width: 100px;
+		top: 62px;
 		margin-left: -50px;
 	}
 
@@ -372,6 +370,7 @@ body
 	#u13545
 	{
 		width: 105px;
+		top: 62px;
 		margin-left: 664px;
 	}
 
@@ -395,6 +394,7 @@ body
 	#u7708
 	{
 		width: 150px;
+		bottom: 61px;
 		margin-left: -75px;
 	}
 
@@ -571,6 +571,7 @@ body
 	#u1201
 	{
 		width: 100px;
+		top: 62px;
 		margin-left: -50px;
 	}
 
@@ -583,6 +584,7 @@ body
 	#u13545
 	{
 		width: 105px;
+		top: 62px;
 		margin-left: 597px;
 	}
 
@@ -606,6 +608,7 @@ body
 	#u7708
 	{
 		width: 150px;
+		bottom: 61px;
 		margin-left: -75px;
 	}
 
@@ -773,6 +776,7 @@ body
 	#u1201
 	{
 		width: 100px;
+		top: 62px;
 		margin-left: -50px;
 	}
 
@@ -785,6 +789,7 @@ body
 	#u13545
 	{
 		width: 105px;
+		top: 62px;
 		margin-left: 425px;
 	}
 
@@ -808,6 +813,7 @@ body
 	#u7708
 	{
 		width: 150px;
+		bottom: 61px;
 		margin-left: -75px;
 	}
 
@@ -975,6 +981,7 @@ body
 	#u1201
 	{
 		width: 100px;
+		top: 62px;
 		margin-left: -50px;
 	}
 
@@ -987,6 +994,7 @@ body
 	#u13545
 	{
 		width: 105px;
+		top: 62px;
 		margin-left: 347px;
 	}
 
@@ -1010,6 +1018,7 @@ body
 	#u7708
 	{
 		width: 150px;
+		bottom: 61px;
 		margin-left: -75px;
 	}
 
@@ -1177,6 +1186,7 @@ body
 	#u1201
 	{
 		width: 100px;
+		top: 62px;
 		margin-left: -50px;
 	}
 
@@ -1189,6 +1199,7 @@ body
 	#u13545
 	{
 		width: 105px;
+		top: 62px;
 		margin-left: 253px;
 	}
 
@@ -1212,6 +1223,7 @@ body
 	#u7708
 	{
 		width: 150px;
+		bottom: 61px;
 		margin-left: -75px;
 	}
 
@@ -1291,12 +1303,12 @@ body
 	#u8876
 	{
 		margin-right: -10000px;
-		margin-top: 198px;
+		margin-top: 185px;
 	}
 
 	#u1203-16
 	{
-		top: 277px;
+		top: 264px;
 		margin-left: -191px;
 	}
 
@@ -1304,7 +1316,7 @@ body
 	{
 		width: 183px;
 		padding-bottom: 26px;
-		top: 201px;
+		top: 188px;
 		margin-left: -94px;
 	}
 
@@ -1313,7 +1325,7 @@ body
 		width: 26px;
 		height: 26px;
 		background-image: url("../images/flagsartboard%201-u7211-fr.png");
-		top: 201px;
+		top: 188px;
 		margin-left: -94px;
 	}
 
@@ -1327,7 +1339,7 @@ body
 		width: 26px;
 		height: 26px;
 		background-image: url("../images/flagsartboard%202-u1654-fr.png");
-		top: 201px;
+		top: 188px;
 		margin-left: -42px;
 	}
 
@@ -1354,7 +1366,7 @@ body
 		width: 26px;
 		height: 26px;
 		background-image: url("../images/flagsartboard%203-u1691-fr.png");
-		top: 201px;
+		top: 188px;
 		margin-left: 11px;
 	}
 
@@ -1381,7 +1393,7 @@ body
 		width: 26px;
 		height: 26px;
 		background-image: url("../images/flagsartboard%204-u1720-fr.png");
-		top: 201px;
+		top: 188px;
 		margin-left: 63px;
 	}
 
@@ -1406,12 +1418,14 @@ body
 	#u7708
 	{
 		width: 150px;
+		bottom: 74px;
 		margin-left: -75px;
 	}
 
 	#u1201
 	{
 		width: 90px;
+		top: 49px;
 		margin-left: -45px;
 	}
 
@@ -1424,6 +1438,7 @@ body
 	#u13545
 	{
 		width: 82px;
+		top: 49px;
 		margin-left: 189px;
 	}
 
@@ -1489,12 +1504,12 @@ body
 	#u8876
 	{
 		margin-right: -10000px;
-		margin-top: 198px;
+		margin-top: 173px;
 	}
 
 	#u1203-16
 	{
-		top: 298px;
+		top: 273px;
 		margin-left: -191px;
 	}
 
@@ -1502,7 +1517,7 @@ body
 	{
 		width: 195px;
 		padding-bottom: 26px;
-		top: 221px;
+		top: 196px;
 		margin-left: -97px;
 	}
 
@@ -1511,7 +1526,7 @@ body
 		width: 26px;
 		height: 26px;
 		background-image: url("../images/flagsartboard%201-u7211-fr.png");
-		top: 221px;
+		top: 196px;
 		margin-left: -97px;
 	}
 
@@ -1525,7 +1540,7 @@ body
 		width: 26px;
 		height: 26px;
 		background-image: url("../images/flagsartboard%202-u1654-fr.png");
-		top: 221px;
+		top: 196px;
 		margin-left: -41px;
 	}
 
@@ -1552,7 +1567,7 @@ body
 		width: 26px;
 		height: 26px;
 		background-image: url("../images/flagsartboard%203-u1691-fr.png");
-		top: 221px;
+		top: 196px;
 		margin-left: 15px;
 	}
 
@@ -1579,7 +1594,7 @@ body
 		width: 26px;
 		height: 26px;
 		background-image: url("../images/flagsartboard%204-u1720-fr.png");
-		top: 221px;
+		top: 196px;
 		margin-left: 71px;
 	}
 
@@ -1604,12 +1619,14 @@ body
 	#u7708
 	{
 		width: 150px;
+		bottom: 86px;
 		margin-left: -75px;
 	}
 
 	#u1201
 	{
 		width: 90px;
+		top: 37px;
 		margin-left: -45px;
 	}
 
@@ -1622,6 +1639,7 @@ body
 	#u13545
 	{
 		width: 76px;
+		top: 37px;
 		margin-left: 133px;
 	}
 
@@ -1657,9 +1675,9 @@ body
 	#pu5644
 	{
 		width: 0.01px;
-		padding-bottom: 341px;
+		padding-bottom: 375px;
 		margin-right: -10000px;
-		margin-top: 235px;
+		margin-top: 201px;
 		margin-left: -80px;
 	}
 
@@ -1685,21 +1703,21 @@ body
 
 	#u1203-16
 	{
-		top: 235px;
+		top: 201px;
 		margin-left: -160px;
 	}
 
 	#u8876
 	{
 		margin-right: -10000px;
-		margin-top: 274px;
+		margin-top: 240px;
 	}
 
 	#u13603
 	{
 		width: 152px;
 		padding-bottom: 21px;
-		top: 167px;
+		top: 133px;
 		margin-left: -76px;
 	}
 
@@ -1708,7 +1726,7 @@ body
 		width: 20px;
 		height: 21px;
 		background-image: url("../images/flagsartboard%201-u7211-fr2.png");
-		top: 167px;
+		top: 133px;
 		margin-left: -76px;
 	}
 
@@ -1722,7 +1740,7 @@ body
 		width: 20px;
 		height: 21px;
 		background-image: url("../images/flagsartboard%202-u1654-fr2.png");
-		top: 167px;
+		top: 133px;
 		margin-left: -32px;
 	}
 
@@ -1749,7 +1767,7 @@ body
 		width: 20px;
 		height: 21px;
 		background-image: url("../images/flagsartboard%203-u1691-fr2.png");
-		top: 167px;
+		top: 133px;
 		margin-left: 12px;
 	}
 
@@ -1776,7 +1794,7 @@ body
 		width: 20px;
 		height: 21px;
 		background-image: url("../images/flagsartboard%204-u1720-fr2.png");
-		top: 167px;
+		top: 133px;
 		margin-left: 56px;
 	}
 
@@ -1801,12 +1819,14 @@ body
 	#u7708
 	{
 		width: 120px;
+		bottom: 95px;
 		margin-left: -60px;
 	}
 
 	#u1201
 	{
 		width: 56px;
+		top: 28px;
 		margin-left: -28px;
 	}
 
@@ -1819,6 +1839,7 @@ body
 	#u13545
 	{
 		width: 56px;
+		top: 28px;
 		margin-left: 88px;
 	}
 
