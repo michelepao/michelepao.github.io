@@ -1,7 +1,7 @@
 .version.honoo___luna /* version checker */
 {
-	color: #0000F7;
-	background-color: #06915F;
+	color: #00000D;
+	background-color: #367021;
 }
 
 #page
@@ -892,14 +892,13 @@ body
 	#page
 	{
 		width: 576px;
-		min-height: 881.987px;
-		padding-bottom: 0px;
+		min-height: 882px;
 	}
 
 	#page_position_content
 	{
 		padding-top: 62px;
-		padding-bottom: 152px;
+		padding-bottom: 253px;
 		width: 0.01px;/* should not cover content below */
 	}
 
@@ -916,34 +915,26 @@ body
 
 	#slideshowu17029
 	{
-		height: 608px;
-		margin-left: 32px;
+		height: 507px;
+		margin-left: 74px;
 	}
 
-	#u17046
+	#u17046,#u18558,#u18675,#u18200
 	{
-		width: 512px;
-		height: 512px;
-		left: 1px;
-	}
-
-	#u18558,#u18675,#u18200
-	{
-		width: 512px;
-		height: 512px;
+		width: 427px;
+		height: 427px;
 	}
 
 	#u17030
 	{
-		width: 512px;
-		top: 512px;
-		left: 1px;
+		width: 427px;
+		top: 426px;
 	}
 
 	#u17043-3
 	{
-		width: 493px;
-		min-height: 492px;
+		width: 407px;
+		min-height: 406px;
 	}
 
 	#u16820
