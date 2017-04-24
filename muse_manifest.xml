@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="honoo.com" resolutions="1x,2x" timestamp="1492999734350">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="honoo.com" resolutions="1x,2x" timestamp="1492999896324">
   <folder name="css">
     <file name="site_global.css" crc="4202786373"/>
     <file name="master_b-master.css" crc="4106395183" ref="honoo---upload"/>
