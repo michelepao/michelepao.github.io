@@ -1,17 +1,17 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="honoo.com" resolutions="1x,2x" timestamp="1493002353568">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="honoo.com" resolutions="1x,2x" timestamp="1493005372349">
   <folder name="css">
     <file name="site_global.css" crc="4202786373"/>
-    <file name="master_b-master.css" crc="4106395183" ref="honoo---upload"/>
+    <file name="master_b-master.css" crc="3890865598" ref="honoo---upload"/>
     <file name="nomq_preview_master_b-master.css" crc="321525473" ref="honoo---upload"/>
     <file name="master_a-master.css" crc="3908436430" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="112443626" ref="index"/>
-    <file name="index.css" crc="4241968566" ref="index"/>
-    <file name="nomq_index.css" crc="4067151745" ref="index"/>
-    <file name="master_c-master.css" crc="3801941747" ref="honoo---luna"/>
+    <file name="index.css" crc="17741006" ref="index"/>
+    <file name="nomq_index.css" crc="4121363231" ref="index"/>
+    <file name="master_c-master.css" crc="55110346" ref="honoo---luna"/>
     <file name="nomq_preview_master_c-master.css" crc="321525473" ref="honoo---luna"/>
-    <file name="honoo---upload.css" crc="3800769614" ref="honoo---upload"/>
-    <file name="nomq_honoo---upload.css" crc="4292385302" ref="honoo---upload"/>
-    <file name="honoo---luna.css" crc="221671457" ref="honoo---luna"/>
+    <file name="honoo---upload.css" crc="373900327" ref="honoo---upload"/>
+    <file name="nomq_honoo---upload.css" crc="493708352" ref="honoo---upload"/>
+    <file name="honoo---luna.css" crc="3970438835" ref="honoo---luna"/>
     <file name="nomq_honoo---luna.css" crc="3771818114" ref="honoo---luna"/>
   </folder>
   <folder name="scripts">
@@ -81,7 +81,7 @@
     <file name="u1203-16_2x8.png" crc="353831572" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:honoo---upload:honoo---luna"/>
     <file name="freccia-02.svg" crc="3970758435" ref="honoo---upload:honoo---luna"/>
-    <file name="freccia-02_poster_.png" crc="3812072514" ref="honoo---upload:honoo---luna"/>
+    <file name="freccia-02_poster_.png" crc="3812072514" ref="honoo---upload"/>
     <file name="pasted-svg-351277x351.svg" crc="32951309" ref="honoo---upload"/>
     <file name="pasted svg 351277x351_poster_.png" crc="3960304055" ref="honoo---upload"/>
     <file name="pasted-svg-351277x3512.svg" crc="4293436891" ref="honoo---upload"/>
@@ -185,10 +185,6 @@
     <file name="u14091-4_2x2.png" crc="4133942347" ref="honoo---upload"/>
     <file name="u14080-42.png" crc="295920065" ref="honoo---upload"/>
     <file name="u14080-4_2x2.png" crc="3894329180" ref="honoo---upload"/>
-    <file name="u14091-43.png" crc="4089888294" ref="honoo---upload"/>
-    <file name="u14091-4_2x3.png" crc="4133942347" ref="honoo---upload"/>
-    <file name="u14080-43.png" crc="295920065" ref="honoo---upload"/>
-    <file name="u14080-4_2x3.png" crc="3894329180" ref="honoo---upload"/>
     <file name="foto7-crop-u18558.jpg" crc="4113678166" ref="honoo---luna"/>
     <file name="foto7-crop-u18558_2x.jpg" crc="468330287" ref="honoo---luna"/>
     <file name="foto8-crop-u18675.jpg" crc="4029986074" ref="honoo---luna"/>
@@ -316,7 +312,7 @@
     <file name="u16796-49.png" crc="4225083759" ref="honoo---luna"/>
     <file name="u16796-4_2x9.png" crc="357662306" ref="honoo---luna"/>
   </folder>
-  <file name="index.html" crc="493938430" seo="true" mt="1492999249673" redirect="true"/>
-  <file name="honoo---upload.html" crc="4218044823" seo="true" mt="1492999270091" redirect="true"/>
-  <file name="honoo---luna.html" crc="335146745" seo="true" mt="1493002335047" redirect="true"/>
+  <file name="index.html" crc="355321472" seo="true" mt="1493005320973" redirect="true"/>
+  <file name="honoo---upload.html" crc="168527534" seo="true" mt="1493005304421" redirect="true"/>
+  <file name="honoo---luna.html" crc="3997618146" seo="true" mt="1493005299219" redirect="true"/>
 </manifest>
