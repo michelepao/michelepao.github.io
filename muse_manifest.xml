@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="honoo.com" resolutions="1x,2x" timestamp="1492999896324">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="honoo.com" resolutions="1x,2x" timestamp="1493001218015">
   <folder name="css">
     <file name="site_global.css" crc="4202786373"/>
     <file name="master_b-master.css" crc="4106395183" ref="honoo---upload"/>
@@ -11,15 +11,15 @@
     <file name="nomq_preview_master_c-master.css" crc="321525473" ref="honoo---luna"/>
     <file name="honoo---upload.css" crc="3800769614" ref="honoo---upload"/>
     <file name="nomq_honoo---upload.css" crc="4292385302" ref="honoo---upload"/>
-    <file name="honoo---luna.css" crc="4273580919" ref="honoo---luna"/>
-    <file name="nomq_honoo---luna.css" crc="527892693" ref="honoo---luna"/>
+    <file name="honoo---luna.css" crc="4144402783" ref="honoo---luna"/>
+    <file name="nomq_honoo---luna.css" crc="3771818114" ref="honoo---luna"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:honoo---upload:honoo---luna"/>
     <file name="museutils.js" crc="3790713428" ref="index:honoo---upload:honoo---luna"/>
     <file name="whatinput.js" crc="84559013" ref="index:honoo---upload:honoo---luna"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index"/>
-    <file name="jquery.watch.js" crc="4244854265" ref="index:honoo---upload:honoo---luna"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:honoo---upload"/>
     <file name="jquery.museresponsive.js" crc="3895133147" ref="index:honoo---upload:honoo---luna"/>
     <file name="pie.js" crc="3827607177" ref="honoo---upload:honoo---luna"/>
     <file name="webpro.js" crc="329496574" ref="honoo---luna"/>
@@ -81,7 +81,7 @@
     <file name="u1203-16_2x8.png" crc="353831572" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:honoo---upload:honoo---luna"/>
     <file name="freccia-02.svg" crc="3970758435" ref="honoo---upload:honoo---luna"/>
-    <file name="freccia-02_poster_.png" crc="3812072514" ref="honoo---upload"/>
+    <file name="freccia-02_poster_.png" crc="3812072514" ref="honoo---upload:honoo---luna"/>
     <file name="pasted-svg-351277x351.svg" crc="32951309" ref="honoo---upload"/>
     <file name="pasted svg 351277x351_poster_.png" crc="3960304055" ref="honoo---upload"/>
     <file name="pasted-svg-351277x3512.svg" crc="4293436891" ref="honoo---upload"/>
@@ -287,36 +287,36 @@
     <file name="u18260-4_2x7.png" crc="16030627" ref="honoo---luna"/>
     <file name="u16796-47.png" crc="4225083759" ref="honoo---luna"/>
     <file name="u16796-4_2x7.png" crc="357662306" ref="honoo---luna"/>
-    <file name="foto7-crop-u185588.jpg" crc="229190351" ref="honoo---luna"/>
-    <file name="foto7-crop-u18558_2x8.jpg" crc="524852656" ref="honoo---luna"/>
-    <file name="foto8-crop-u186758.jpg" crc="4220181539" ref="honoo---luna"/>
-    <file name="foto8-crop-u18675_2x8.jpg" crc="12269848" ref="honoo---luna"/>
-    <file name="foto5-crop-u182008.jpg" crc="4223476219" ref="honoo---luna"/>
-    <file name="foto5-crop-u18200_2x8.jpg" crc="487763843" ref="honoo---luna"/>
-    <file name="u18618-48.png" crc="281966031" ref="honoo---luna"/>
-    <file name="u18618-4_2x8.png" crc="481048423" ref="honoo---luna"/>
-    <file name="u18743-48.png" crc="86482918" ref="honoo---luna"/>
-    <file name="u18743-4_2x8.png" crc="371326828" ref="honoo---luna"/>
-    <file name="u18260-48.png" crc="4210982611" ref="honoo---luna"/>
-    <file name="u18260-4_2x8.png" crc="3941745260" ref="honoo---luna"/>
+    <file name="foto7-crop-u185588.jpg" crc="166640901" ref="honoo---luna"/>
+    <file name="foto7-crop-u18558_2x8.jpg" crc="273329730" ref="honoo---luna"/>
+    <file name="foto8-crop-u186758.jpg" crc="187879832" ref="honoo---luna"/>
+    <file name="foto8-crop-u18675_2x8.jpg" crc="273532715" ref="honoo---luna"/>
+    <file name="foto5-crop-u182008.jpg" crc="4120879936" ref="honoo---luna"/>
+    <file name="foto5-crop-u18200_2x8.jpg" crc="409770152" ref="honoo---luna"/>
+    <file name="u18618-48.png" crc="3987506005" ref="honoo---luna"/>
+    <file name="u18618-4_2x8.png" crc="347757123" ref="honoo---luna"/>
+    <file name="u18743-48.png" crc="4065704457" ref="honoo---luna"/>
+    <file name="u18743-4_2x8.png" crc="156393688" ref="honoo---luna"/>
+    <file name="u18260-48.png" crc="505492687" ref="honoo---luna"/>
+    <file name="u18260-4_2x8.png" crc="4060569169" ref="honoo---luna"/>
     <file name="u16796-48.png" crc="4225083759" ref="honoo---luna"/>
     <file name="u16796-4_2x8.png" crc="357662306" ref="honoo---luna"/>
-    <file name="foto7-crop-u185589.jpg" crc="4039958831" ref="honoo---luna"/>
-    <file name="foto7-crop-u18558_2x9.jpg" crc="304811516" ref="honoo---luna"/>
-    <file name="foto8-crop-u186759.jpg" crc="180295388" ref="honoo---luna"/>
-    <file name="foto8-crop-u18675_2x9.jpg" crc="472943169" ref="honoo---luna"/>
-    <file name="foto5-crop-u182009.jpg" crc="333569440" ref="honoo---luna"/>
-    <file name="foto5-crop-u18200_2x9.jpg" crc="4237573604" ref="honoo---luna"/>
-    <file name="u18618-49.png" crc="4115757915" ref="honoo---luna"/>
-    <file name="u18618-4_2x9.png" crc="57901820" ref="honoo---luna"/>
-    <file name="u18743-49.png" crc="3787447126" ref="honoo---luna"/>
-    <file name="u18743-4_2x9.png" crc="452189801" ref="honoo---luna"/>
-    <file name="u18260-49.png" crc="4092092384" ref="honoo---luna"/>
-    <file name="u18260-4_2x9.png" crc="369622604" ref="honoo---luna"/>
+    <file name="foto7-crop-u185589.jpg" crc="460784427" ref="honoo---luna"/>
+    <file name="foto7-crop-u18558_2x9.jpg" crc="4200664706" ref="honoo---luna"/>
+    <file name="foto8-crop-u186759.jpg" crc="4262625399" ref="honoo---luna"/>
+    <file name="foto8-crop-u18675_2x9.jpg" crc="3917959709" ref="honoo---luna"/>
+    <file name="foto5-crop-u182009.jpg" crc="112371428" ref="honoo---luna"/>
+    <file name="foto5-crop-u18200_2x9.jpg" crc="4000603491" ref="honoo---luna"/>
+    <file name="u18618-49.png" crc="4052813822" ref="honoo---luna"/>
+    <file name="u18618-4_2x9.png" crc="4036114709" ref="honoo---luna"/>
+    <file name="u18743-49.png" crc="190275273" ref="honoo---luna"/>
+    <file name="u18743-4_2x9.png" crc="4268132133" ref="honoo---luna"/>
+    <file name="u18260-49.png" crc="214277981" ref="honoo---luna"/>
+    <file name="u18260-4_2x9.png" crc="4030750361" ref="honoo---luna"/>
     <file name="u16796-49.png" crc="4225083759" ref="honoo---luna"/>
     <file name="u16796-4_2x9.png" crc="357662306" ref="honoo---luna"/>
   </folder>
   <file name="index.html" crc="493938430" seo="true" mt="1492999249673" redirect="true"/>
   <file name="honoo---upload.html" crc="4218044823" seo="true" mt="1492999270091" redirect="true"/>
-  <file name="honoo---luna.html" crc="151432509" seo="true" mt="1492999700421" redirect="true"/>
+  <file name="honoo---luna.html" crc="434401878" seo="true" mt="1493001084292" redirect="true"/>
 </manifest>

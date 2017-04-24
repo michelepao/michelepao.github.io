@@ -11,7 +11,7 @@
 	#page
 	{
 		width: 1600px;
-		min-height: 599px;
+		min-height: 892px;
 	}
 
 	#u18981
@@ -24,27 +24,21 @@
 	{
 		width: 0.01px;
 		padding-bottom: 86px;
-		margin: 803px -10000px -219px -160px;
+		margin-right: -10000px;
+		margin-top: 806px;
+		margin-left: -160px;
 	}
 
 	#u16820
 	{
 		height: 86px;
-		position: fixed;
-		bottom: -219px;
+		bottom: 0px;
 	}
 
 	#u16799
 	{
 		height: 61px;
-		position: fixed;
-		bottom: -219px;
-	}
-
-	#u16816
-	{
-		position: fixed;
-		bottom: -219px;
+		bottom: 0px;
 	}
 
 	#u16822
@@ -56,6 +50,7 @@
 	#slideshowu17029
 	{
 		height: 608px;
+		margin-right: -10000px;
 		margin-top: 62px;
 		left: 543px;
 	}
@@ -88,27 +83,19 @@
 
 	#u16796-4
 	{
-		position: fixed;
-		bottom: -197px;
-		left: 50%;
+		bottom: 22px;
 		margin-left: -37px;
 	}
 
 	#u16793
 	{
-		height: 40px;
-		position: fixed;
-		bottom: -207px;
-		left: 50%;
+		bottom: 12px;
 		margin-left: -30px;
 	}
 
 	#u16793:hover
 	{
 		margin-left: -30px;
-		margin-right: 0px;
-		margin-top: 0px;
-		height: 40px;
 	}
 
 	body
