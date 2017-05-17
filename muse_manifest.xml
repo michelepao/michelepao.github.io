@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="honoo.com" resolutions="1x,2x" timestamp="1495028854467">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="honoo.com" resolutions="1x,2x" timestamp="1495029340161">
   <folder name="css">
     <file name="site_global.css" crc="4252429357"/>
     <file name="master_b-master.css" crc="3798209537" ref="complimenti:honoo---upload"/>
     <file name="nomq_preview_master_b-master.css" crc="3824530138" ref="complimenti:honoo---upload"/>
-    <file name="complimenti.css" crc="162647081" ref="complimenti"/>
-    <file name="nomq_complimenti.css" crc="339556736" ref="complimenti"/>
+    <file name="complimenti.css" crc="3759317884" ref="complimenti"/>
+    <file name="nomq_complimenti.css" crc="171961872" ref="complimenti"/>
     <file name="honoo---upload.css" crc="4253179722" ref="honoo---upload"/>
     <file name="nomq_honoo---upload.css" crc="3824362159" ref="honoo---upload"/>
     <file name="honoo---luna.css" crc="492037668" ref="honoo---luna"/>
@@ -69,7 +69,7 @@
     <file name="flagsartboard 4-chi copy 2_2x.png" crc="505629083" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted-svg-227072x274.svg" crc="240155284" seo="true" ref="index">
+    <file name="pasted-svg-227072x274.svg" crc="240155284" seo="true" ref="index:complimenti">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -78,8 +78,17 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="complimenti" alt=""/>
+      <caption webpage="complimenti" alt=""/>
+      <caption webpage="complimenti" alt=""/>
+      <caption webpage="complimenti" alt=""/>
+      <caption webpage="complimenti" alt=""/>
+      <caption webpage="complimenti" alt=""/>
+      <caption webpage="complimenti" alt=""/>
+      <caption webpage="complimenti" alt=""/>
+      <caption webpage="complimenti" alt=""/>
     </file>
-    <file name="pasted svg 227072x274_poster_.png" crc="332143932" ref="index"/>
+    <file name="pasted svg 227072x274_poster_.png" crc="332143932" ref="index:complimenti"/>
     <file name="pasted-svg-38329x48.svg" crc="4018641858" seo="true" ref="index:honoo---upload">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -204,7 +213,7 @@
       <caption webpage="complimenti" alt=""/>
       <caption webpage="complimenti" alt=""/>
     </file>
-    <file name="freccia-02_poster_.png" crc="3812072514" ref="honoo---upload"/>
+    <file name="freccia-02_poster_.png" crc="3812072514" ref="honoo---upload:complimenti"/>
     <file name="pasted-svg-351277x351.svg" crc="32951309" seo="true" ref="honoo---upload">
       <caption webpage="honoo---upload" alt=""/>
       <caption webpage="honoo---upload" alt=""/>
@@ -546,5 +555,5 @@
   <file name="index.html" crc="3875205687" seo="true" mt="1494979194177" redirect="true"/>
   <file name="honoo---upload.html" crc="4038073817" seo="true" mt="1495028545737" redirect="true"/>
   <file name="honoo---luna.html" crc="3828888370" seo="true" mt="1495027149848" redirect="true"/>
-  <file name="complimenti.html" crc="4111566309" seo="true" mt="1495028599018" redirect="true"/>
+  <file name="complimenti.html" crc="3959860354" seo="true" mt="1495029332668" redirect="true"/>
 </manifest>
