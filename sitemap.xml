@@ -2,164 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://honoo.com/index.html</loc>
-    <lastmod>2017-05-30</lastmod>
+    <lastmod>2017-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://honoo.com/images/pasted-svg-227072x274.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://honoo.com/images/pasted-svg-149993x41.svg</image:loc>
+      <image:loc>http://honoo.com/images/pasted-svg-34138x43.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://honoo.com/images/bottiglia_def.gif</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://honoo.com/honoo---upload.html</loc>
-    <lastmod>2017-05-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://honoo.com/images/pasted-svg-38329x48.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/freccia-02.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/pasted-svg-351277x351.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/pasted-svg-351277x3512.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/pasted-svg-114843x114.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/pasted-svg-34344x34.svg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://honoo.com/honoo---luna.html</loc>
-    <lastmod>2017-05-18</lastmod>
+    <loc>http://honoo.com/upload.html</loc>
+    <lastmod>2017-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://honoo.com/images/pasted-svg-34138x43.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://honoo.com/images/12188908_538162329692498_3250242932788189976_n380x380.jpg</image:loc>
+      <image:loc>http://honoo.com/images/pasted-svg-962x483.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://honoo.com/images/12191774_538162336359164_8933738925910508129_n380x380.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/12195878_538162359692495_5514729858378676236_n380x380.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/12208307_538162346359163_6305647756678518509_n380x380.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/12208307_538162346359163_6305647756678518509_n.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/12188908_538162329692498_3250242932788189976_n.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/12191774_538162336359164_8933738925910508129_n.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/12195878_538162359692495_5514729858378676236_n.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/12188908_538162329692498_3250242932788189976_n262x262.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/12191774_538162336359164_8933738925910508129_n262x262.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/12195878_538162359692495_5514729858378676236_n262x262.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/12208307_538162346359163_6305647756678518509_n262x262.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/12188908_538162329692498_3250242932788189976_n378x378.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/12191774_538162336359164_8933738925910508129_n381x381.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/12195878_538162359692495_5514729858378676236_n381x381.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/12188908_538162329692498_3250242932788189976_n338x338.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/12191774_538162336359164_8933738925910508129_n338x338.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/12195878_538162359692495_5514729858378676236_n338x338.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/12208307_538162346359163_6305647756678518509_n337x338.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/12188908_538162329692498_3250242932788189976_n322x322.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/12191774_538162336359164_8933738925910508129_n322x322.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/12195878_538162359692495_5514729858378676236_n322x322.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/12208307_538162346359163_6305647756678518509_n322x322.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/12188908_538162329692498_3250242932788189976_n310x310.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/12191774_538162336359164_8933738925910508129_n310x310.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/12195878_538162359692495_5514729858378676236_n310x310.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/12208307_538162346359163_6305647756678518509_n310x310.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/12188908_538162329692498_3250242932788189976_n414x414.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/12191774_538162336359164_8933738925910508129_n414x414.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/12195878_538162359692495_5514729858378676236_n414x414.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/12208307_538162346359163_6305647756678518509_n413x414.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/12188908_538162329692498_3250242932788189976_n370x370.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/12191774_538162336359164_8933738925910508129_n370x370.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/12195878_538162359692495_5514729858378676236_n370x370.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://honoo.com/images/12208307_538162346359163_6305647756678518509_n369x369.jpg</image:loc>
+      <image:loc>http://honoo.com/images/ok.gif</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://honoo.com/complimenti.html</loc>
-    <lastmod>2017-05-18</lastmod>
+    <loc>http://honoo.com/luna.html</loc>
+    <lastmod>2017-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://honoo.com/images/pasted-svg-227072x274.svg</image:loc>
+      <image:loc>http://honoo.com/images/pasted-svg-66x110.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://honoo.com/images/freccia-02.svg</image:loc>
+      <image:loc>http://honoo.com/images/pasted-svg-66x1102.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://honoo.com/images/cardshonoo-03.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://honoo.com/images/pasted-svg-34138x432.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://honoo.com/images/pasted-svg-66x1103.svg</image:loc>
     </image:image>
   </url>
 </urlset>
